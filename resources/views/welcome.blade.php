@@ -13,4 +13,4 @@
 
 @section('content')
     テスト
-@endosection
+@endsection
