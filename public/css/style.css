@@ -77,7 +77,7 @@ p.item-title {
 .item .panel-body {
     height: 120px;
 }
-.item .buttons from {
+.item .buttons form {
     display: inline-block;
     margin: 0 5px;
 }
